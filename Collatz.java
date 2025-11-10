@@ -38,7 +38,7 @@ public class Collatz {
 			System.out.println();
 	    
 		} System.out.println("Every one of the " + lim + " hailstone sequences reached 1.");
-	} else{
+	} else if (cha.equals("c")){
 		System.out.println("Every one of the first " + lim + " hailstone sequences reached 1.");
 	}
 	
