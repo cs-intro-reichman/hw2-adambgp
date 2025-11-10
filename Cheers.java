@@ -32,7 +32,7 @@ public class Cheers {
             System.out.println("What does that spell?");
         
             for(int d=0; d< lines; d++){
-                System.out.println(input + " ! ! !");
+                System.out.println(input + "!!!");
             }
             }
 
