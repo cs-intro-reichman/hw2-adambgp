@@ -15,7 +15,11 @@ public class Cheers {
 
             int length = input.length();
 
+<<<<<<< HEAD
             String an = "AEFHILMNORSX";
+=======
+            String an = "AEFHILMNORSXaefhilmnorsx";
+>>>>>>> bb10a38 (complete)
 
             int check= 0;
 
